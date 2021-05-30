@@ -5,4 +5,10 @@ The amount of time taken for an algorithm to execute is known as the time comple
 
 There are a number of time complexities that exist. Some of which include the O(n) which is the linear time complexity. O(n<sup>2</sup>), O(n<sup>3</sup>), O(n<sup>k</sup>) are the quadratic, cubic, and polynomial time complexities, respectively. O(log n) is the logarithmic time complexity. Here, n is the input size.
 
-The first graph from the code file which shows all the time complexities plotted on a single axes indicates that logarithmic time complexity is the best. This is because it is the fastest as it takes the least amount of time. However, for further evidence, there is a second graph which consists of the time complexities on separate axes. Here, using the input that has been provided, it can be clearly seen that the logarithmic function takes the least amount of time. We can also see increasing running time for the linear, quadratic, cubic and polynomial time complexities with the same input size of 7. Hence, we can conclude that logarithmic time complexity is the best. 
+The first graph from the code file which shows all the time complexities plotted on a single axes is given below.
+![first graph](https://github.com/ehsanul18/IM-assignments/blob/main/Assignment%201/Image%201.png)
+
+This graph clearly indicates that logarithmic time complexity is the best. This is because it is the fastest as it takes the least amount of time. However, for further evidence, there is a second graph which consists of the time complexities on separate axes shown below.
+![second graph](https://github.com/ehsanul18/IM-assignments/blob/main/Assignment%201/Image%202.png)
+
+Here, using the input that has been provided, it can be clearly seen that the logarithmic function takes the least amount of time. We can also see increasing running time for the linear, quadratic, cubic and polynomial time complexities with the same input size of 7. 
